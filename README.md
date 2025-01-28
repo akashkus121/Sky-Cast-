@@ -1,4 +1,4 @@
-# Global Weather App: Simple Weather Application
+# Sky Cast : Simple Weather Application
 
 Global Weather App is a user-friendly weather application that allows users to check the current temperature and various weather parameters for any location across the globe. This application has been built using HTML, CSS, JavaScript, and a weather API.
 
